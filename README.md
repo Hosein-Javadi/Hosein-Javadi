@@ -6,7 +6,7 @@ Hello! I am Hosein Javadi, a Flutter developer residing in Iran, Tehran. In this
 
 - **Flutter** (Advanced)
 - **Student pursuing an associate degree in Computer Networks and Software.**
-- **Date of Birth:** July 6, 2006 (18 years old).
+- **Date of Birth:** May 6, 2006 (18 years old).
 - Cross-platform development.
 
 ## 🚀 About Me
